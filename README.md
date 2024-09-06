@@ -1,6 +1,4 @@
-Here's a `README.md` template that you can use for your portfolio website on GitHub. It highlights the project’s features, tech stack, installation instructions, and more.
 
-```md
 # Harsh Kumar's Portfolio Website
 
 🚀 **Welcome to my digital playground!** This is my personal portfolio website, where I showcase my web development projects, skills, and experience. Built with React and Next.js, it's a blend of creative design, animation, and savage code.
@@ -101,6 +99,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 💻 Developed by [Harsh Kumar](https://hxrshrathore.me) with ❤️ and a pinch of savage humor.
-```
-
-You can modify the repository URL and other links as per your needs. Let me know if you need any additional details!
